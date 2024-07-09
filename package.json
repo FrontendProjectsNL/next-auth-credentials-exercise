@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@prisma/client": "^5.16.1",
+    "check-password-strength": "^2.0.10",
     "jsonwebtoken": "^9.0.2",
     "next": "14.2.4",
     "next-auth": "^4.24.7",
