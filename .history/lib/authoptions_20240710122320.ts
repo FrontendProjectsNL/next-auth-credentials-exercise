@@ -1,6 +1,6 @@
 import CredentialsProvider from 'next-auth/providers/credentials';
 
-export default authoptions = {
+export const authoptions = {
   providers: [
     CredentialsProvider({
       // The name to display on the sign in form (e.g. 'Sign in with...')
